@@ -18,6 +18,7 @@ nr_numbers = random.randint(2, 5)
 file_path = "/Users/OptimusPrime/"
 file_name = "youshallnotpass"
 
+
 # ---------------------------- PASSWORD GENERATOR ------------------------------- #
 def generate_password():
 
